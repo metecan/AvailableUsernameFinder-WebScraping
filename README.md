@@ -1,4 +1,4 @@
-# Available username finder with Web Scrapping
+# Available username finder with Web Scraping
 
 This code is checking for available usernames on **GitHub** for 4 letters.
 
@@ -12,11 +12,11 @@ Packages;
 - Open terminal in your project folder.
 - Enter this code on your terminal. 
 
-`git clone https://github.com/metecan/AvailableUsernameFinder-WebScrapping.git`
+`git clone https://github.com/metecan/AvailableUsernameFinder-WebScraping.git`
 
 After then
 
-You need to install `colly` package for web scrapping.
+You need to install `colly` package for web scraping.
 
 - Enter this code on your terminal for install [colly](http://go-colly.org/docs/introduction/install/) package.
 
