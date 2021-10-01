@@ -32,6 +32,6 @@ Status **1**: Taken
 
 Status **0**: Available
 
-![output](https://res.cloudinary.com/soruio/image/upload/v1593931289/output_1_et5f3d.png)
+![output](https://res.cloudinary.com/allstar/image/upload/v1593931289/output_1_et5f3d.png)
 
 🤩
